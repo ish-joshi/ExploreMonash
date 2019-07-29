@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/switch_left" android:id="@+id/buttonLeftControl"
+          android:icon="@drawable/ic_chevron_left_white_24dp" app:showAsAction="always"/>
+    <item android:title="@string/switch_right" android:id="@+id/buttonRightControl"
+          android:icon="@drawable/ic_chevron_right_white_24dp" app:showAsAction="always"/>
+</menu>

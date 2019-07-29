@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Explore Monash</string>
+
+
+    <!--Admob configuration-->
+    <string name="admob_app_id">ca-app-pub-9720359794649747~1290717945</string>
+    <string name="admob_banner_unit_id">ca-app-pub-9720359794649747/5146202474</string>
+    <string name="admob_fullscreen_unit_id">ca-app-pub-9720359794649747/4104583549</string>
+
+    <!--Maps API Config-->
+    <string name="gmaps_api_key">AIzaSyBptGfL9Udjdcj5FppVXniDXLM-G4LLa8o</string>
+
+
+    <string name="title_activity_tour_view">Tour View</string>
+    <string name="title_activity_place_detailed_view">PlaceDetailedViewActivity</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="down_arrow">▼</string>
+    <string name="no_long_description_available">No description available</string>
+    <string name="switch_left">Go back</string>
+    <string name="switch_right">Go forward</string>
+    <string name="text_not_on_campus">You are not on Clayton Campus</string>
+    <string name="share_app">Share</string>
+    <string name="about_text">About</string>
+    <string name="share_message_body">Try out this app at [[url]]</string>
+    <string name="share_using">Share Using</string>
+
+
+    <string name="about_text_content">
+        This app is made by Ishan Joshi and is not affiliated with Monash University.
+        I take no responsibility and cannot provide a guarantee about the functionality of this app.
+    </string>
+
+
+</resources>

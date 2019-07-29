@@ -1,0 +1,79 @@
+{
+  "10003" : {
+    "description" : "→",
+    "id" : "10003",
+    "name" : "Welcome"
+  },
+  "10006" : {
+    "description" : "Iconic statue of the Sir John Monash.",
+    "id" : "10006",
+    "image" : "https://www.monash.edu/__data/assets/image/0008/647216/Corlett_Sir-John-Monash.jpg",
+    "lat" : -37.912265,
+    "lng" : 145.132042,
+    "longDescription" : "This is an iconic statue worth taking a photo with.",
+    "name" : "Menzies Statue"
+  },
+  "10009" : {
+    "description" : "Get all ID Card and Questions sorted here.",
+    "id" : "10009",
+    "image" : "https://gsoepriyanto.files.wordpress.com/2013/06/20130606_143924.jpg",
+    "lat" : -37.912163,
+    "lng" : 145.133386,
+    "longDescription" : "Monash Connect can help you with all your queries, just pop in and get the issue sorted.",
+    "name" : "Monash Connect"
+  },
+  "10011" : {
+    "description" : "Big library with study rooms",
+    "id" : "10011",
+    "image" : "https://www.monash.edu/__data/assets/image/0009/496242/front.jpg",
+    "lat" : -37.913123,
+    "lng" : 145.133975,
+    "longDescription" : "Got computers, cafes and lots of quirky study places.\n\nBe sure to also check out the rooms available for booking for study purposes.\nThis can be done through eLibCat, the library system.",
+    "name" : "Matheson Library"
+  },
+  "10015" : {
+    "description" : "Engineering and IT Library",
+    "id" : "10015",
+    "image" : "https://www.monash.edu/__data/assets/image/0011/158096/hargrave-11400.jpg",
+    "lat" : -37.910015,
+    "lng" : 145.132163,
+    "longDescription" : "Vibrant place. \n\nLower level is very quiet. Upper levels have computers and other resources.\n\nCheck it out for yourself.",
+    "name" : "Hargrave Library"
+  },
+
+  "10102" : {
+    "description" : "→",
+    "id" : "10102",
+    "name" : "Welcome"
+  },
+
+  "10105" : {
+    "description" : "Go up to the top floor in Menzies and admire the view.",
+    "id" : "10015",
+    "image" : "https://upload.wikimedia.org/wikipedia/commons/c/c5/Monash_University_Clayton_Campus.jpg",
+    "lat" : -37.912428,
+    "lng" : 145.132801,
+    "longDescription" : "Admire the views for yourself!",
+    "name" : "View from Menzies"
+  },
+
+  "10108" : {
+    "description" : "Little weird, little scary. Check it out",
+    "id" : "10108",
+    "image" : "https://www.monash.edu/__data/assets/image/0009/216945/ronnie-dayton-4.jpg",
+    "lat" : -37.908062,
+    "lng" : 145.132146,
+    "name" : "Robotic Statue"
+  },
+
+  "40908" : {
+    "description" : "Happy Fun",
+    "id" : "40908",
+    "image" : "https://media5.architecturemedia.net/site_media/media/cache/e8/3f/e83f1859c948b52bfca36749b833a0f1.jpg",
+    "lat" : -37.909658,
+    "lng" : 145.139376,
+    "longDescription" : "Lol this is a long description, this is cool",
+    "name" : "The Fun Bridge"
+  }
+
+}

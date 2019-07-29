@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#006dae</color>
+    <color name="colorPrimaryDark">#005d94</color>
+    <color name="colorAccent">#d81b60</color>
+
+    <color name="monashBlue">#006dae</color>
+
+</resources>

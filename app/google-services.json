@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "956355072350",
+    "firebase_url": "https://monash-tour-poc.firebaseio.com",
+    "project_id": "monash-tour-poc",
+    "storage_bucket": "monash-tour-poc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956355072350:android:2a61a7804f3721a5",
+        "android_client_info": {
+          "package_name": "poc.ishanjoshi.me.exploremonash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956355072350-l0fnocqc8sr148p5pcq6sq4h0o3fgqcg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "poc.ishanjoshi.me.exploremonash",
+            "certificate_hash": "08ccf2abc58cf98761c39a26383f37753f8bbfbc"
+          }
+        },
+        {
+          "client_id": "956355072350-uh6e1jpq164dn5s6e8mfent9b8g461va.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5tlXjcvSyaYfr0pZeNDOU6YSUp2v6vCI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956355072350-uh6e1jpq164dn5s6e8mfent9b8g461va.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

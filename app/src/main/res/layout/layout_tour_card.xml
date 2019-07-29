@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+                                    xmlns:app="http://schemas.android.com/apk/res-auto"
+                                    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    app:contentPadding="@dimen/cardview_eight"
+                                    android:layout_margin="@dimen/cardview_eight">
+
+
+    <android.support.constraint.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        <ImageView
+                android:layout_width="0dp"
+                android:layout_height="0dp" tools:srcCompat="@tools:sample/avatars"
+                android:id="@+id/imageTourBanner"
+                app:layout_constraintStart_toStartOf="parent"
+                android:layout_marginStart="8dp" android:layout_marginBottom="8dp"
+                app:layout_constraintBottom_toTopOf="@+id/guideline" android:layout_marginTop="8dp"
+                app:layout_constraintTop_toTopOf="parent" app:layout_constraintEnd_toEndOf="parent"
+                android:layout_marginEnd="8dp" android:scaleType="fitXY"/>
+        <android.support.constraint.Guideline android:layout_width="wrap_content" android:layout_height="wrap_content"
+                                              android:id="@+id/guideline" app:layout_constraintGuide_percent="0.66"
+                                              android:orientation="horizontal"/>
+        <TextView
+                android:text="TextView"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content" android:id="@+id/textTitle"
+                android:textAppearance="@style/TextAppearance.AppCompat.Light.SearchResult.Subtitle"
+                app:layout_constraintEnd_toEndOf="parent" android:layout_marginEnd="8dp"
+                app:layout_constraintStart_toStartOf="parent" android:layout_marginStart="32dp"
+                android:layout_marginTop="8dp" app:layout_constraintTop_toTopOf="@+id/guideline"
+                android:layout_marginBottom="8dp" app:layout_constraintBottom_toTopOf="@+id/textDescription"/>
+        <TextView
+                android:text="TextView"
+                android:layout_height="wrap_content" android:id="@+id/textDescription"
+                app:layout_constraintEnd_toEndOf="parent"
+                android:layout_marginEnd="8dp" app:layout_constraintStart_toStartOf="parent"
+                android:layout_marginStart="32dp" android:layout_marginTop="8dp"
+                app:layout_constraintTop_toBottomOf="@+id/textTitle" android:layout_width="0dp"
+                app:layout_constraintBottom_toBottomOf="parent" android:layout_marginBottom="16dp"/>
+    </android.support.constraint.ConstraintLayout>
+
+
+</android.support.v7.widget.CardView>

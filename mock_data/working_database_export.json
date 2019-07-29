@@ -1,0 +1,78 @@
+{
+  "block_size" : 50,
+  "places" : {
+    "18881" : {
+      "description" : "Iconic statue of the Sir John Monash.",
+      "id" : "18881",
+      "image" : "https://www.monash.edu/__data/assets/image/0008/647216/Corlett_Sir-John-Monash.jpg",
+      "lat" : -37.912265,
+      "lng" : 145.132042,
+      "longDescription" : "This is a long description about the place itself.",
+      "name" : "Menzies Statue"
+    },
+    "20479" : {
+      "description" : "Get all your questions sorted here.",
+      "id" : "20479",
+      "image" : "https://gsoepriyanto.files.wordpress.com/2013/06/20130606_143924.jpg",
+      "lat" : -37.912163,
+      "lng" : 145.133386,
+      "longDescription" : "This is another long description here",
+      "name" : "Monash Connect"
+    },
+    "40001" : {
+      "description" : "→",
+      "id" : "40001",
+      "name" : "Welcome"
+    },
+    "40908" : {
+      "description" : "Happy Fun",
+      "id" : "40908",
+      "image" : "https://media5.architecturemedia.net/site_media/media/cache/e8/3f/e83f1859c948b52bfca36749b833a0f1.jpg",
+      "lat" : -37.909658,
+      "lng" : 145.139376,
+      "longDescription" : "Lol this is a long description, this is cool",
+      "name" : "The Fun Bridge"
+    },
+    "44033" : {
+      "description" : "Engineering and IT Library",
+      "id" : "44033",
+      "image" : "https://www.monash.edu/__data/assets/image/0011/158096/hargrave-11400.jpg",
+      "lat" : -37.910015,
+      "lng" : 145.132163,
+      "longDescription" : "Vibrant place. \nLower level is very quiet. Upper levels have computers and other resources. Check it out for yourself.",
+      "name" : "Hargrave Library"
+    },
+    "44381" : {
+      "description" : "Little weird, little scary. Check it out",
+      "id" : "44381",
+      "image" : "https://www.monash.edu/__data/assets/image/0009/216945/ronnie-dayton-4.jpg",
+      "lat" : -37.908062,
+      "lng" : 145.132146,
+      "name" : "Robotic Statue"
+    }
+  },
+  "tours" : {
+    "2663" : {
+      "description" : "Get started with all the essential knowledge required to get around campus and settling into the university.",
+      "id" : "2663",
+      "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Monash_University_Menzies_Building.jpg/1024px-Monash_University_Menzies_Building.jpg",
+      "name" : "New Students Tour",
+      "order" : 1,
+      "place_start" : "40000"
+    },
+    "4164" : {
+      "description" : "Know about some of the interesting places at the university. These may help you enjoy university experience more.",
+      "id" : "4164",
+      "image" : "http://rhiannonslatter.com.au/wp-content/uploads/2017/05/JMRNatureWalk01-1-1050x700.jpg",
+      "name" : "Secret Spots 😉",
+      "order" : 2
+    },
+    "5622" : {
+      "description" : "Takes you through all the peaceful calm spots where you can relax during hectic times when it gets all challenging.",
+      "id" : "5622",
+      "image" : "http://users.monash.edu/~ckopp/SB/Pacific-Black-Duck-Monash-Clayton-August-2012-2.jpg",
+      "name" : "Nature Walk",
+      "order" : 3
+    }
+  }
+}
